@@ -31,7 +31,8 @@ Operações básicas: adição, subtração, multiplicação e divisão
 🔧 Como Rodar o Projeto:
 
 1-Clone este repositório:
-git clone https://github.com/seu-usuario/calculadora-fallout.git
+git clone https:
+[//github.com/seu-usuario/calculadora-fallout.git](https://github.com/CharlieTrax/Calculadora-Vault-WinForms.git)
 
 2-Abra o projeto no Visual Studio.
 
